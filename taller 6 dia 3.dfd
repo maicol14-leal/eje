@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+' hola cuantos mililitros quieres '
+5
+1
+10
+mililitros
+6
+3
+3
+sub
+17
+(mililitros+4500)
+3
+iva
+10
+sub*19/100
+5
+total
+7
+sub+iva
+4
+1
+35
+' señor usuario debe pagar ' ,total
+1
